@@ -1,0 +1,32 @@
+body{
+    background-image:url("https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg");
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    text-align:center;
+    color:mediumpurple;
+    font-family: 'Moon Dance', cursive;
+    font-size:25px;
+}
+#l1{
+    font-weight:bold;
+}
+#Show,#Done{
+    border: 5px purple solid;
+    width: 300px;
+    height: 300px;
+}
+button{
+    font-size: 18px;
+    font-family: 'Moon Dance', cursive;
+    font-weight: bold;
+    background-color:rgb(195, 174, 238);
+    border:rgb(190, 165, 238);
+}
+label,span{
+    font-weight: bold;
+}
+#d1{
+    box-shadow:5px 5px 40px rgb(216, 99, 216);
+    margin: 20px;
+}
